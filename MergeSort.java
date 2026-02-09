@@ -50,10 +50,10 @@ public class MergeSort {
         mergeSort(arr, mid+1, e);
         merge(arr,s,e,mid);
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         int arr[] = {13,12,45,67,19};
-        int size = arr.length-1;
-        mergeSort(arr,0,size);
+        int n = arr.length-1;
+        mergeSort(arr,0,n);
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
         }
