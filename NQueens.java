@@ -13,7 +13,7 @@ public class NQueens {
             }
             row--;
             col--;
-        }
+        } 
 
         row = dupRow;
         col = dupCol;
@@ -47,7 +47,7 @@ public class NQueens {
             if (isSafe(board, row, col, n)) {
                 StringBuilder sb = new StringBuilder(board.get(row));
                 sb.setCharAt(col, 'Q');
-                board.set(row, sb.toString());
+                board.add(col,sb.toString());
 
                 solve(board, ans, n, col + 1);
 

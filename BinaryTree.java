@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Map;
 import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
@@ -19,6 +18,10 @@ class Node{
 class Pair{
     Node temp;
     int line;
+}
+class Pair2{
+    Node temp;
+    Node parent;
 }
 public class BinaryTree {
 
@@ -214,6 +217,10 @@ public class BinaryTree {
             }
             flag =!flag;
         }
+    }
+    public static boolean isCousins(Node root, int x, int y){
+        Queue<Pair2> q = new LinkedList<>();
+        q.add(new Pair2(root,))
     }
     public static void verticalOrder(Node root){
         Queue<Pair> q = new LinkedList<>(); 
