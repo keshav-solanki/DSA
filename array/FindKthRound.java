@@ -14,7 +14,8 @@ public class FindKthRound {
     }
     public static void main(String[] args) {
         int arr[] = {3,4,5,1,2};
-        System.out.println(findRound(arr));
+        int ans = findRound(arr);
+        System.out.println(ans);
     }
     
 }
