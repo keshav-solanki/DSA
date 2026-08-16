@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/keshav-solanki/DSA/tree/master/0061-rotate-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav-solanki/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/keshav-solanki/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/keshav-solanki/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
