@@ -1,29 +1,22 @@
 class Solution {
     public boolean sumGame(String num) {
-        int n = num.length();
-        int half = n / 2;
+        int n= num.length();
+        int lSum =0;
+        int rSum =0;
+        int q1 = 0;
+        int q2 = 0;
 
-        int leftSum = 0, rightSum = 0;
-        int leftQ = 0, rightQ = 0;
-
-        for (int i = 0; i < half; i++) {
+        for(int i=0; i<n; i++){
             char c = num.charAt(i);
-            if (c == '?') leftQ++;
-            else leftSum += c - '0';
+            if(i<n/2){
+                if(c == '?') q1++;
+                else lSum += c-'0';
+            }else{
+                if(c == '?') q2++;
+                else rSum += c-'0';
+            }
         }
-
-        for (int i = half; i < n; i++) {
-            char c = num.charAt(i);
-            if (c == '?') rightQ++;
-            else rightSum += c - '0';
-        }
-
-        // Alice gets one extra move
-        if (((leftQ + rightQ) & 1) == 1) return true;
-
-        int diff = leftSum - rightSum;
-
-        // Bob wins only in this exact situation
-        return diff != (rightQ - leftQ) * 9 / 2;
+        
+        return (lSum - rSum) * 2 != (q2- q1) * 9;
     }
 }
