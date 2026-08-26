@@ -1,29 +1,41 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
         int n = s.length();
-        int i =0;
-        int ones = 0;
+
         String ans = "";
 
-        for(int j =0; j<n; j++){
-            char c = s.charAt(j);
-            if(c == '1') ones++;
+        for (int i = 0; i < n; i++) {
+            int ones = 0;
 
-            while(ones > k && s.charAt(i) == '1') {
-                ones--;
-                i++;
-            }
+            for (int j = i; j < n; j++) {
 
-            if(ones == k ){
-                while(i<j && s.charAt(i) == '0') i++;
-                String curr = s.substring(i,j+1);
+                if (s.charAt(j) == '1') {
+                    ones++;
+                }
 
-                if(ans.length() == 0 || curr.length() < ans.length() || (curr.length() == ans.length() && curr.compareTo(ans) < 0)) {
-                    ans = curr;
+                // More than k ones -> no need to continue
+                if (ones > k) {
+                    break;
+                }
+
+                // Exactly k ones
+                if (ones == k) {
+                    String sub = s.substring(i, j + 1);
+
+                    if (ans.equals("")
+                            || sub.length() < ans.length()
+                            || (sub.length() == ans.length()
+                                && sub.compareTo(ans) < 0)) {
+                        ans = sub;
+                    }
+
+                    // Adding more characters will only increase length
+                    // while still having k ones, so no need to continue.
+                    break;
                 }
             }
-
         }
+
         return ans;
     }
 }
