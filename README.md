@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/keshav-solanki/DSA/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/keshav-solanki/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keshav-solanki/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keshav-solanki/DSA/tree/master/1140-stone-game-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/keshav-solanki/DSA/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/keshav-solanki/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keshav-solanki/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keshav-solanki/DSA/tree/master/1140-stone-game-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/keshav-solanki/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/keshav-solanki/DSA/tree/master/0061-rotate-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav-solanki/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
@@ -208,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshav-solanki/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/keshav-solanki/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/keshav-solanki/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
