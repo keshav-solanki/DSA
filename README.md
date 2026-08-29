@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/keshav-solanki/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0846-hand-of-straights](https://github.com/keshav-solanki/DSA/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/keshav-solanki/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav-solanki/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keshav-solanki/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/keshav-solanki/DSA/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/keshav-solanki/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/keshav-solanki/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/keshav-solanki/DSA/tree/master/2029-stone-game-ix) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/keshav-solanki/DSA/tree/master/0846-hand-of-straights) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keshav-solanki/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keshav-solanki/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/keshav-solanki/DSA/tree/master/3731-find-missing-elements) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keshav-solanki/DSA/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/keshav-solanki/DSA/tree/master/0486-predict-the-winner) |
+| [0846-hand-of-straights](https://github.com/keshav-solanki/DSA/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/keshav-solanki/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keshav-solanki/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/keshav-solanki/DSA/tree/master/1386-cinema-seat-allocation) |
