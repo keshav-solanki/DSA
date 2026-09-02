@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/keshav-solanki/DSA/tree/master/0088-merge-sorted-array) |
 | [0846-hand-of-straights](https://github.com/keshav-solanki/DSA/tree/master/0846-hand-of-straights) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keshav-solanki/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keshav-solanki/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keshav-solanki/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/keshav-solanki/DSA/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/keshav-solanki/DSA/tree/master/0486-predict-the-winner) |
 | [0846-hand-of-straights](https://github.com/keshav-solanki/DSA/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/keshav-solanki/DSA/tree/master/0877-stone-game) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keshav-solanki/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/keshav-solanki/DSA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/keshav-solanki/DSA/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshav-solanki/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keshav-solanki/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
