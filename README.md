@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/keshav-solanki/DSA/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/keshav-solanki/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keshav-solanki/DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/keshav-solanki/DSA/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/keshav-solanki/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/keshav-solanki/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/keshav-solanki/DSA/tree/master/1563-stone-game-v) |
@@ -149,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/keshav-solanki/DSA/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/keshav-solanki/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/keshav-solanki/DSA/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/keshav-solanki/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -247,9 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/keshav-solanki/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/keshav-solanki/DSA/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav-solanki/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/keshav-solanki/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/keshav-solanki/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
